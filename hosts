@@ -1,0 +1,9 @@
+[mon]
+Mon01 ansible_host=192.168.100.12
+Mon02 ansible_host=192.168.100.13
+Mon03 ansible_host=192.168.100.14
+
+# [osd]
+# Osd01 ansible_host=192.168.200.44
+# Osd02 ansible_host=192.168.200.45
+# Osd03 ansible_host=192.168.200.46
